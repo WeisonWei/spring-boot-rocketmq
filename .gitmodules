@@ -1,0 +1,3 @@
+[submodule "spring-boot-rocketmq-consumer"]
+	path = spring-boot-rocketmq-consumer
+	url = https://github.com/WeisonWei/spring-boot-rocketmq-consumer.git
