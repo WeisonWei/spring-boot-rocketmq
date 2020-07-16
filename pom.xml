@@ -14,6 +14,8 @@
     </properties>
 
     <modules>
+        <module>spring-boot-rocketmq-consumer</module>
+        <module>spring-boot-rocketmq-producer</module>
     </modules>
 
 </project>
